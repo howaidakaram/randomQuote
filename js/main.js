@@ -1,6 +1,6 @@
 var prodctName=document.getElementById("productname")
 var prodctPrice=document.getElementById("productprice")
-var productCategory=document.getElementById("productcategory")
+var productCategory=document.getElementById("productcategory"l)
 var productDescription=document.getElementById("productdescription")
 var productList=[]
 
